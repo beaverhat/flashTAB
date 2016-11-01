@@ -13,4 +13,4 @@ Potential for future development:
  
 However, this was admittedly just made for personal use and meets my present needs well (lazy keyboard-driven flash/question cards), so I may or may not be making much active progress either here or towards much of a GUI in the near future. 
 
-Created by JP. Newbie. Feedback welcome - please get in touch!
+Created by JP. Newbie. Feedback welcome. 
