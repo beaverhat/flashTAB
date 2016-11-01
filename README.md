@@ -9,7 +9,8 @@ Instructions for use:
 Potential for future development:
  - Implementation of learning / staged repetition 
  - Score-keeping
+ - Porting to iOS
  
- However, the program at present meets my present needs well (lazy keyboard-driven flash/question cards), so I am unlikely to be making much active progress either here or towards much of a GUI. 
+However, this was admittedly just made for personal use and meets my present needs well (lazy keyboard-driven flash/question cards), so I may or may not be making much active progress either here or towards much of a GUI in the near future. 
 
-Created by JP. Thanks for your interest. Feedback welcome. 
+Created by JP. Newbie. Feedback welcome - please get in touch!
